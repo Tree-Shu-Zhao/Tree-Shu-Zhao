@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shu Zhao.
-- 🌱 I am a second-year Ph.D. student at Pennsylvania State University.
+- 🌱 I am a Ph.D. student at Pennsylvania State University.
 - 👀 Currently, my research focuses on Vision & Language.
 - 📫 Email: smz5505@psu.edu
 - 😄 Pronouns: he/him/his
