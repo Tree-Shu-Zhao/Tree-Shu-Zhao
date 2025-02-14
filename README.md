@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shu Zhao.
 - 🌱 I am a Ph.D. student at Pennsylvania State University.
-- 👀 Currently, my research focuses on Vision & Language.
+- 👀 Currently, my research focuses on the intersection of Multimodal Large Language Models, Information Retrieval, and Long-Context Understanding.
 - 📫 Email: smz5505@psu.edu
 - 😄 Pronouns: he/him/his
 
